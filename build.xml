@@ -12,7 +12,7 @@
     <property name="buf" value="false"/>
     <property name="rythm.new" value="false"/>
     <property name="fork" value="true"/>
-    <property name="jvmargs" value="-Dfile.encoding=utf8 -Xmx512m"/>
+    <property name="jvmargs" value="-Dfile.encoding=utf8 -Xmx1024m"/>
 
     <path id="project.class.path">
         <fileset dir="${lib}">
