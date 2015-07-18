@@ -11,7 +11,7 @@
     <property name="ntimes" value="10000"/>
     <property name="buf" value="false"/>
     <property name="rythm.new" value="false"/>
-    <property name="fork" value="false"/>
+    <property name="fork" value="true"/>
 
     <path id="project.class.path">
         <fileset dir="${lib}">
